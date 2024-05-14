@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/restaurant-rb/static/css/main.bad64045.css",
+    "main.js": "/restaurant-rb/static/js/main.e578dcdd.js",
+    "static/media/banniere1.png": "/restaurant-rb/static/media/banniere1.f5d26a9d04e145261f1c.png",
+    "static/media/Banniere2.png": "/restaurant-rb/static/media/Banniere2.d40909850ce77297f6fe.png",
+    "static/media/bgphotshop.png": "/restaurant-rb/static/media/bgphotshop.95e3a65c129bf2e959f4.png",
+    "static/media/wall-and-laptop-background.jpg": "/restaurant-rb/static/media/wall-and-laptop-background.f9e274f49e7f72950a2f.jpg",
+    "static/media/resto-img-logo.avif": "/restaurant-rb/static/media/resto-img-logo.b99573c39a09e341d1eb.avif",
+    "index.html": "/restaurant-rb/index.html",
+    "main.bad64045.css.map": "/restaurant-rb/static/css/main.bad64045.css.map",
+    "main.e578dcdd.js.map": "/restaurant-rb/static/js/main.e578dcdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad64045.css",
+    "static/js/main.e578dcdd.js"
+  ]
+}
